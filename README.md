@@ -35,3 +35,12 @@ This dataset includes:
   
 ```python
 hybrid_score = alpha * collaborative_score + (1 - alpha) * content_score
+```
+
+
+🚀 Future Enhancements
+ Add a Streamlit web app for interactive recommendations
+ Implement user login & preferences
+ Enhance content-based filtering using metadata like actors, directors, and plot
+ Add matrix factorization or deep learning-based models
+
