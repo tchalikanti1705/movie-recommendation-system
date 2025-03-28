@@ -19,9 +19,6 @@ We begin by loading the MovieLens 10M dataset which contains two main files: `mo
 
 import pandas as pd
 
-
-#this is test
-
 # Define column names for clarity
 movie_cols = ['movieId', 'title', 'genres']
 rating_cols = ['userId', 'movieId', 'rating', 'timestamp']
