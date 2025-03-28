@@ -42,5 +42,8 @@ hybrid_score = alpha * collaborative_score + (1 - alpha) * content_score
 - **Add a Streamlit web app** for interactive recommendations  
 - **Implement user login & preferences** for personalized results  
 - **Enhance content-based filtering** using metadata like actors, directors, and plot summaries  
-- **Add matrix factorization** or deep learning-based models for improved recommendations  
+- **Add matrix factorization** or deep learning-based models for improved recommendations
+
+
+- Dummy
 
